@@ -75,7 +75,7 @@ A full-stack application for tracking personal expenses.
 
 ## 🤝 Connect With Me
 
-* LinkedIn: Add your LinkedIn link here
-* Email: Add your professional email here
+* LinkedIn: https://www.linkedin.com/in/atharva-patil7666/
+
 
 ⭐ Feel free to explore my repositories and connect with me!
