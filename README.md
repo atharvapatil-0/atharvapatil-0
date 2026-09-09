@@ -1,81 +1,65 @@
-# Hi 👋, I'm Atharva Patil
+✨
+V2 Available Now!Redesigned UI · More features · Faster performance
+Upgrade to V2 →
+✕
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+24428
+Fork on GitHub
+8404
 
-### Aspiring Software Engineer & Machine Learning Engineer
+back to edit
 
-I'm a B.Tech Data Science student passionate about building real-world software and applying Machine Learning to solve practical problems.
+copy-markdown
 
-* 🔭 Currently building **full-stack and AI/ML projects**
-* 🌱 Currently strengthening my skills in **DSA using C++**
-* 💻 Interested in **Software Development, Backend Development, Machine Learning and AI**
-* 🎯 Goal: Secure an **SDE/ML Internship** and build impactful products
+download markdown
 
-## 🚀 Tech Stack
+download backup
 
-### Programming Languages
+preview
+<h1 align="center">Hi 👋, I'm Atharva Patil</h1>
+<h3 align="center">Aspiring Software Engineer & Machine Learning Engineer</h3>
 
-C++ • Python • JavaScript • SQL
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atharvapatil-0" alt="atharvapatil-0" /></a> </p>
 
-### Web Development
+- 📫 How to reach me **https://www.linkedin.com/in/atharva-patil7666/**
 
-React • HTML • CSS • Express.js • FastAPI
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/atharva-patil7666/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atharva-patil7666/" height="30" width="40" /></a>
+</p>
 
-### Databases & Tools
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
-MongoDB • PostgreSQL • Supabase • Git • GitHub
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvapatil-0&show_icons=true&locale=en&layout=compact" alt="atharvapatil-0" /></p>
 
-### Machine Learning
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atharvapatil-0&show_icons=true&locale=en" alt="atharvapatil-0" /></p>
 
-scikit-learn • NumPy • Pandas • Matplotlib
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvapatil-0&" alt="atharvapatil-0" /></p>
 
-### Machine Learning Concepts
-
-Linear Regression • Logistic Regression • KNN • SVM • Naive Bayes • Decision Trees • Random Forest • Gradient Boosting • XGBoost
-
-## 📌 Featured Projects
-
-### 🏠 EstateFlow CRM
-
-A full-stack real estate CRM for managing leads, follow-ups and properties.
-
-**Tech:** React, Express.js, Supabase, PostgreSQL
-
-### 🏛️ Aitihya – Heritage Intelligence Platform
-
-An AI-powered platform for heritage research, information retrieval and evidence-based answers.
-
-**Tech:** Python, FastAPI, ChromaDB, Sentence Transformers, Vector Search
-
-### 📊 House Price Prediction
-
-A Machine Learning project for predicting house prices using regression models and data analysis.
-
-**Tech:** Python, Pandas, NumPy, scikit-learn, Matplotlib
-
-### 💰 Expense Tracker
-
-A full-stack application for tracking personal expenses.
-
-**Tech:** React, Express.js, MongoDB
-
-## 🧠 Currently Learning
-
-* Data Structures & Algorithms using C++
-* Advanced Problem Solving
-* Backend Development
-* Machine Learning fundamentals and model evaluation
-* Building production-ready full-stack applications
-
-## 🎯 2026 Goals
-
-* Solve DSA problems consistently
-* Build 3–4 strong production-quality projects
-* Strengthen CS fundamentals
-* Secure an SDE or ML Internship
-* Contribute to open-source projects
-
-## 🤝 Connect With Me
-
-* LinkedIn: https://www.linkedin.com/in/atharva-patil7666/
-
-
-⭐ Feel free to explore my repositories and connect with me!
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me a Coffee
